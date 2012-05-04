@@ -111,7 +111,7 @@ section#contenido, footer{
 section#principal, aside{
 	background: rgba(255, 255, 255, 0.2);
 	border-radius: 8px;
-	opacity: 0.5;
+	/*opacity: 0.5;*/
 	display: inline-block;
 	margin: 0 auto;
 	padding: 0.4em;
